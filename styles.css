@@ -137,3 +137,7 @@ body{
   font-size: 5rem;
   color: white;
 }
+
+.show-winning-message{
+  display: flex;
+}
